@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Викторина</string>
+    <string name="main_title">Викторина по Android</string>
+    <string name="hint_name">Введите имя</string>
+    <string name="btn_start">Начать</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="error_empty_name">Сначала введите имя</string>
+    <string name="question_number">Вопрос %1$d из %2$d</string>
+    <string name="result_title">Викторина завершена</string>
+    <string name="result_score">Верных ответов: %1$d из %2$d</string>
+    <string name="btn_again">Заново</string>
+</resources>
